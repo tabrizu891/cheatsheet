@@ -21,7 +21,7 @@ exclude_patterns = ['_build']
 pygments_style = 'sphinx'
 htmlhelp_basename = 'readthecheatsheets'
 #html_theme = 'sphinx_rtd_theme'
-html_theme = 'sphinx_book_theme'
+html_theme = 'piccolo_theme'
 file_insertion_enabled = False
 latex_documents = [
   ('index', 'readthecheatsheets.tex', u'readthecheatsheets Documentation',
