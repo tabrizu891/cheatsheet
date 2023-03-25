@@ -50,5 +50,5 @@ What types of updates would you like?
     Atlantic Conference Announcements
 
 .. code-block:: python
-
-   print("Hello World")
+    import requests
+    print("Hello World")
