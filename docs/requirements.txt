@@ -1,3 +1,4 @@
 sphinx-copybutton
 sphinxawesome-theme
 insegel
+sphinx-book-theme
