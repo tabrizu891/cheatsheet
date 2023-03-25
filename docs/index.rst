@@ -6,10 +6,6 @@ by providing a basic explanation of how to do it easily.
 
 Look how easy it is to use:
 
-.. code-block::
-    import project
-    # Get your stuff done
-    project.do_stuff()
 
 Features
 --------
