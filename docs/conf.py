@@ -6,7 +6,7 @@ from datetime import datetime
 
 from recommonmark.parser import CommonMarkParser
 
-extensions = ['sphinx_copybutton']
+extensions = ['sphinx_copybutton','sphinxawesome_theme']
 templates_path = ['templates', '_templates', '.templates']
 source_suffix = ['.rst', '.md']
 source_parsers = {
@@ -20,7 +20,8 @@ release = 'latest'
 exclude_patterns = ['_build']
 pygments_style = 'sphinx'
 htmlhelp_basename = 'readthecheatsheets'
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinxawesome_theme'
 file_insertion_enabled = False
 latex_documents = [
   ('index', 'readthecheatsheets.tex', u'readthecheatsheets Documentation',
