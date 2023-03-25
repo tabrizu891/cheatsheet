@@ -6,6 +6,10 @@ by providing a basic explanation of how to do it easily.
 
 Look how easy it is to use
 
+.. code-block:: python
+
+   import requests
+   print('hello')
 
 Features
 --------
@@ -32,8 +36,6 @@ License
 
 The project is licensed under the BSD license.
 
-Logo
-
 Write the Docs is a global community of people who care about documentation. We have a Slack community, conferences on 3 continents, and local meetups!
 Quick search
 Job Postings
@@ -49,7 +51,4 @@ What types of updates would you like?
     Australian Conference Announcements
     Atlantic Conference Announcements
 
-.. code-block:: python  
 
-   import requests
-   print('hello')
