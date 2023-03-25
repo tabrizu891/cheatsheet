@@ -56,3 +56,7 @@ What types of updates would you like?
     European Conference Announcements
     Australian Conference Announcements
     Atlantic Conference Announcements
+
+.. code-block:: python
+
+   print("Hello World")
