@@ -1,2 +1,3 @@
 sphinx-copybutton
 sphinxawesome-theme
+insegel
