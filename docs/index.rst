@@ -49,6 +49,7 @@ What types of updates would you like?
     Australian Conference Announcements
     Atlantic Conference Announcements
 
-.. code-block:: python
+.. code-block:: python  
+
    import requests
    print('hello')
