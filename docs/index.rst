@@ -30,8 +30,6 @@ Contribute
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-.. centered:: LICENSE AGREEMENT
-
 License
 -------
 
@@ -53,6 +51,6 @@ What types of updates would you like?
     Atlantic Conference Announcements
 
 
-.. note::
-
-   This function is not suitable for sending spam e-mails.
+======
+test
+======
