@@ -30,6 +30,7 @@ Contribute
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
+.. centered:: LICENSE AGREEMENT
 
 License
 -------
