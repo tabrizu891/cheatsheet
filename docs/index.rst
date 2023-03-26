@@ -52,3 +52,6 @@ What types of updates would you like?
     Atlantic Conference Announcements
 
 
+.. note::
+
+   This function is not suitable for sending spam e-mails.
